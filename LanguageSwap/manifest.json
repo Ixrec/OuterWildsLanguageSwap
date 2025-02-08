@@ -6,5 +6,8 @@
   "uniqueName": "Ixrec.LanguageSwap",
   "version": "0.1.0",
   "owmlVersion": "2.14.0",
-  "dependencies": []
+  "dependencies": [],
+  "conflicts": [
+    "JohnCorby.VanillaFix"
+  ]
 }
