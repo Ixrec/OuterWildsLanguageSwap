@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json",
+  "enabled": true,
+  "settings": {
+    "Language 1": {
+      "type": "selector",
+      "value": "ENGLISH",
+      "options": [
+        "ENGLISH",
+        "SPANISH_LA",
+        "GERMAN",
+        "FRENCH",
+        "ITALIAN",
+        "POLISH",
+        "PORTUGUESE_BR",
+        "JAPANESE",
+        "RUSSIAN",
+        "CHINESE_SIMPLE",
+        "KOREAN",
+        "TURKISH"
+      ]
+    },
+    "Language 2": {
+      "type": "selector",
+      "value": "CHINESE_SIMPLE",
+      "options": [
+        "ENGLISH",
+        "SPANISH_LA",
+        "GERMAN",
+        "FRENCH",
+        "ITALIAN",
+        "POLISH",
+        "PORTUGUESE_BR",
+        "JAPANESE",
+        "RUSSIAN",
+        "CHINESE_SIMPLE",
+        "KOREAN",
+        "TURKISH"
+      ]
+    }
+  }
+}
